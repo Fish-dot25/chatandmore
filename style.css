@@ -320,3 +320,7 @@ footer {
     max-width: 85%;
   }
 }
+
+a {
+  border-radius: 20px;
+
